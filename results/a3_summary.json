@@ -769,5 +769,70 @@
    "compared": 71
   }
  },
- "route_heuristic": {}
+ "route_heuristic": {
+  "ref": {
+   "n": 3,
+   "median_gap_to_best_pct": 0.0014718813999919176,
+   "max_gap_to_best_pct": 0.0014718813999919176,
+   "median_gap_to_bound_pct": 0.00147185973596223,
+   "median_time_s": 17.394366004504263,
+   "max_time_s": 17.4696443695575
+  },
+  "sample": {
+   "n": 3,
+   "median_gap_to_best_pct": 3.6457072860487434e-09,
+   "max_gap_to_best_pct": 3.6457072860487434e-09,
+   "median_gap_to_bound_pct": -0.000792549949677106,
+   "median_time_s": 120.16122732963413,
+   "max_time_s": 120.1682715844363
+  },
+  "uc2": {
+   "n": 3,
+   "median_gap_to_best_pct": 0.0011694651519729101,
+   "max_gap_to_best_pct": 0.0011694651519729101,
+   "median_gap_to_bound_pct": 0.0011694514756675168,
+   "median_time_s": 17.78627801500261,
+   "max_time_s": 18.1943253967911
+  },
+  "orders n=1": {
+   "n": 3,
+   "median_gap_to_best_pct": 1.5411675007996777e-08,
+   "max_gap_to_best_pct": 15.592074296058847,
+   "median_gap_to_bound_pct": -0.0004697100760214467,
+   "median_time_s": 36.317707331851125,
+   "max_time_s": 42.825553147122264
+  },
+  "orders n=2": {
+   "n": 3,
+   "median_gap_to_best_pct": 0.000540656406564752,
+   "max_gap_to_best_pct": 0.3872062584862286,
+   "median_gap_to_bound_pct": 0.0005406568619043414,
+   "median_time_s": 100.03245267365128,
+   "max_time_s": 120.08181574009359
+  },
+  "orders n=3": {
+   "n": 3,
+   "median_gap_to_best_pct": 0.00022757978447707255,
+   "max_gap_to_best_pct": 2.1146698043171663,
+   "median_gap_to_bound_pct": 0.00022758251327563035,
+   "median_time_s": 120.92483619693667,
+   "max_time_s": 122.37203232012689
+  },
+  "orders n=5": {
+   "n": 3,
+   "median_gap_to_best_pct": 0.8713735899033717,
+   "max_gap_to_best_pct": 20.03832503229909,
+   "median_gap_to_bound_pct": 0.8638462617213641,
+   "median_time_s": 120.42650131322443,
+   "max_time_s": 123.24280027113855
+  },
+  "orders n=8": {
+   "n": 3,
+   "median_gap_to_best_pct": 14.28599355362082,
+   "max_gap_to_best_pct": 25.4851023867888,
+   "median_gap_to_bound_pct": 12.500213813968465,
+   "median_time_s": 123.1971293259412,
+   "max_time_s": 124.79043422453105
+  }
+ }
 }
