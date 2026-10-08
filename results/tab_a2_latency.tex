@@ -1,0 +1,10 @@
+\begin{tabular}{@{}lrrrrrr@{}}
+\toprule
+Model & End-to-end (s) & LLM (s) & Tool calls (s) & of which solver (s) & LLM turns & Task success \\
+\midrule
+llama3.1:8b & 3.55 (1.12) & 3.16 (0.90) & 0.335 & 0.314 & 2.0 & 68\% \\
+gpt-oss:20b & 12.20 (7.82) & 11.74 (7.72) & 0.397 & 0.351 & 3.8 & 100\% \\
+llama3.1:8b (uncontended) & 3.55 (1.12) & 3.16 (0.90) & 0.335 & 0.314 & 2.0 & 68\% \\
+gpt-oss:20b (uncontended) & 10.36 (3.93) & 9.89 (3.75) & 0.400 & 0.354 & 3.9 & 100\% \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,8 @@
+[03:51:13] A5 agent load llama3.1:8b
+agent C=1: p50=7.69s max=7.69s errors=0
+agent C=2: p50=13.20s max=13.20s errors=0
+agent C=4: p50=20.57s max=25.05s errors=0
+agent C=8: p50=36.40s max=49.52s errors=0
+agent C=16: p50=66.04s max=87.22s errors=4
+[03:54:25] A5 agent load gpt-oss:20b
+agent C=1: p50=10.12s max=10.12s errors=0

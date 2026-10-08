@@ -1,0 +1,317 @@
+{"host": "03cc5af136fd", "python": "3.11.17", "backend": "highs", "solver_version": "ortools 9.14.6206", "gurobi": null, "cpu_count": 128, "grb_settings": {"TimeLimit": 600, "Threads": 16, "OutputFlag": 0}}
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1791334084.511809       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+90 solves to run (0 already done)
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334084.965599       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[1/90] ref seattle_orlando s0 r0: status=2 t=0.13s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334085.391074       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[2/90] ref seattle_orlando s0 r1: status=2 t=0.13s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334085.810104       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[3/90] ref seattle_orlando s0 r2: status=2 t=0.13s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334086.232087       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[4/90] ref seattle_orlando s0 r3: status=2 t=0.13s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334086.647271       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[5/90] ref seattle_orlando s0 r4: status=2 t=0.13s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334087.097132       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[6/90] ref seattle_orlando s0 r5: status=2 t=0.13s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334087.513041       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[7/90] ref seattle_orlando s0 r6: status=2 t=0.13s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334087.943536       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[8/90] ref seattle_orlando s0 r7: status=2 t=0.14s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334088.387958       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[9/90] ref seattle_orlando s0 r8: status=2 t=0.15s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334088.824813       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[10/90] ref seattle_orlando s0 r9: status=2 t=0.15s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334089.248527       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[11/90] ref seattle_orlando s0 r10: status=2 t=0.14s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334089.673624       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[12/90] ref seattle_orlando s0 r11: status=2 t=0.13s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334090.100831       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[13/90] ref seattle_orlando s0 r12: status=2 t=0.14s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334090.540036       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[14/90] ref seattle_orlando s0 r13: status=2 t=0.15s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334090.986851       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[15/90] ref seattle_orlando s0 r14: status=2 t=0.16s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334091.557334       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[16/90] ref seattle_orlando s0 r15: status=2 t=0.16s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334092.020936       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[17/90] ref seattle_orlando s0 r16: status=2 t=0.16s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334092.477686       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[18/90] ref seattle_orlando s0 r17: status=2 t=0.15s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334092.935140       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[19/90] ref seattle_orlando s0 r18: status=2 t=0.16s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334093.381864       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[20/90] ref seattle_orlando s0 r19: status=2 t=0.16s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334100.148867       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[21/90] sample sample_instance s0 r0: status=2 t=6.44s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334106.904547       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[22/90] sample sample_instance s0 r1: status=2 t=6.40s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334113.873822       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[23/90] sample sample_instance s0 r2: status=2 t=6.62s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334121.732562       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[24/90] sample sample_instance s0 r3: status=2 t=7.51s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334128.293664       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[25/90] sample sample_instance s0 r4: status=2 t=6.22s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334135.041992       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[26/90] sample sample_instance s0 r5: status=2 t=6.38s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334141.821481       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[27/90] sample sample_instance s0 r6: status=2 t=6.35s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334148.369157       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[28/90] sample sample_instance s0 r7: status=2 t=6.22s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334154.835997       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[29/90] sample sample_instance s0 r8: status=2 t=6.16s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334161.365746       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[30/90] sample sample_instance s0 r9: status=2 t=6.21s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334167.883641       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[31/90] sample sample_instance s0 r10: status=2 t=6.20s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334174.415421       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[32/90] sample sample_instance s0 r11: status=2 t=6.22s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334180.930399       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[33/90] sample sample_instance s0 r12: status=2 t=6.14s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334187.474598       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[34/90] sample sample_instance s0 r13: status=2 t=6.22s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334193.999100       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[35/90] sample sample_instance s0 r14: status=2 t=6.21s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334200.477664       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[36/90] sample sample_instance s0 r15: status=2 t=6.17s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334206.987232       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[37/90] sample sample_instance s0 r16: status=2 t=6.20s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334213.506550       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[38/90] sample sample_instance s0 r17: status=2 t=6.21s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334219.974626       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[39/90] sample sample_instance s0 r18: status=2 t=6.16s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334226.533822       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[40/90] sample sample_instance s0 r19: status=2 t=6.20s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334227.435041       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[41/90] uc2 use_case_2 s0 r0: status=2 t=0.61s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334228.269308       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[42/90] uc2 use_case_2 s0 r1: status=2 t=0.56s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334229.101217       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[43/90] uc2 use_case_2 s0 r2: status=2 t=0.57s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334230.002495       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[44/90] uc2 use_case_2 s0 r3: status=2 t=0.63s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334230.812260       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[45/90] uc2 use_case_2 s0 r4: status=2 t=0.55s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334231.632291       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[46/90] uc2 use_case_2 s0 r5: status=2 t=0.56s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334232.447990       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[47/90] uc2 use_case_2 s0 r6: status=2 t=0.55s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334233.318182       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[48/90] uc2 use_case_2 s0 r7: status=2 t=0.60s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334234.221796       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[49/90] uc2 use_case_2 s0 r8: status=2 t=0.64s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334235.098074       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[50/90] uc2 use_case_2 s0 r9: status=2 t=0.61s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334235.982785       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[51/90] uc2 use_case_2 s0 r10: status=2 t=0.61s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334236.823317       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[52/90] uc2 use_case_2 s0 r11: status=2 t=0.58s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334237.717175       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[53/90] uc2 use_case_2 s0 r12: status=2 t=0.63s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334238.634115       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[54/90] uc2 use_case_2 s0 r13: status=2 t=0.64s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334239.542705       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[55/90] uc2 use_case_2 s0 r14: status=2 t=0.64s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334240.449238       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[56/90] uc2 use_case_2 s0 r15: status=2 t=0.63s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334241.345932       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[57/90] uc2 use_case_2 s0 r16: status=2 t=0.63s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334242.241173       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[58/90] uc2 use_case_2 s0 r17: status=2 t=0.63s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334243.086876       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[59/90] uc2 use_case_2 s0 r18: status=2 t=0.58s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334243.955391       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[60/90] uc2 use_case_2 s0 r19: status=2 t=0.61s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334244.368223       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[61/90] orders n=1 s0 r0: status=2 t=0.14s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334244.974858       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[62/90] orders n=1 s1 r0: status=2 t=0.34s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334245.337616       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[63/90] orders n=1 s2 r0: status=2 t=0.09s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334246.877835       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[64/90] orders n=2 s0 r0: status=2 t=1.25s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334248.650345       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[65/90] orders n=2 s1 r0: status=2 t=1.49s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334249.142852       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[66/90] orders n=2 s2 r0: status=2 t=0.20s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334259.775176       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[67/90] orders n=3 s0 r0: status=2 t=10.32s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334265.543704       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[68/90] orders n=3 s1 r0: status=2 t=5.42s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+E0000 00:00:1791334270.230448       1 highs_interface.cc:226] Number of nodes only available for discrete problems
+[69/90] orders n=3 s2 r0: status=2 t=4.36s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+{"host": "d80a8a1da84d", "python": "3.11.17", "backend": "highs", "solver_version": "ortools 9.14.6206", "gurobi": null, "cpu_count": 128, "grb_settings": {"TimeLimit": 600, "Threads": 1, "OutputFlag": 0}, "parallel_workers": 8}
+21 solves to run (69 already done)
+Computing routes...
+Computing routes...
+Computing routes...
+Computing routes...
+Computing routes...
+Computing routes...
+Computing routes...
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1791334700.808166      73 highs_interface.cc:226] Number of nodes only available for discrete problems
+[1/21] orders n=5 s1 r0: status=2 t=27.15s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1791334706.074842      74 highs_interface.cc:226] Number of nodes only available for discrete problems
+[2/21] orders n=5 s2 r0: status=2 t=32.37s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1791335204.259438      72 highs_interface.cc:226] Number of nodes only available for discrete problems
+[3/21] orders n=5 s0 r0: status=2 t=530.61s gap=0.0
+Computing routes...
+Running HiGHS 1.11.0 (git hash: 364c83a5): Copyright (c) 2025 HiGHS under MIT licence terms

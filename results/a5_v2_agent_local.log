@@ -1,0 +1,25 @@
+[04:22:39] A5 agent load llama3.1:8b, OLLAMA_NUM_PARALLEL=1
+agent C=1: p50=7.65s max=7.65s errors=0
+agent C=2: p50=13.86s max=13.86s errors=0
+agent C=4: p50=20.84s max=25.95s errors=0
+agent C=8: p50=36.47s max=50.26s errors=0
+agent C=16: p50=70.08s max=103.21s errors=0
+[04:26:12] A5 agent load gpt-oss:20b, OLLAMA_NUM_PARALLEL=1
+agent C=1: p50=9.05s max=9.05s errors=0
+agent C=2: p50=17.14s max=17.14s errors=0
+agent C=4: p50=26.21s max=31.72s errors=0
+agent C=8: p50=50.68s max=67.03s errors=0
+agent C=16: p50=89.86s max=129.91s errors=0
+[04:30:44] A5 agent load llama3.1:8b, OLLAMA_NUM_PARALLEL=4
+agent C=1: p50=7.68s max=7.68s errors=0
+agent C=2: p50=10.13s max=10.13s errors=0
+agent C=4: p50=12.84s max=12.99s errors=0
+agent C=8: p50=21.21s max=22.15s errors=0
+agent C=16: p50=35.00s max=44.03s errors=0
+[04:32:33] A5 agent load gpt-oss:20b, OLLAMA_NUM_PARALLEL=4
+agent C=1: p50=9.02s max=9.02s errors=0
+agent C=2: p50=14.63s max=14.63s errors=0
+agent C=4: p50=19.27s max=19.41s errors=0
+agent C=8: p50=35.74s max=38.45s errors=0
+agent C=16: p50=59.48s max=75.16s errors=0
+[04:35:27] A5 agent rerun done

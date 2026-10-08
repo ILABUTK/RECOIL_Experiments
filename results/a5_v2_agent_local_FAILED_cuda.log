@@ -1,0 +1,15 @@
+[04:09:14] A5 agent load llama3.1:8b via http://127.0.0.1:11435
+warm-up failed: ExceptionGroup('unhandled errors in a TaskGroup', [ExceptionGroup('unhandled errors in a TaskGroup', [ResponseError('llama-server process has terminated: CUDA error\nCUDA error: device kernel image is
+agent C=1: p50=2.87s max=2.87s errors=1
+agent C=2: p50=5.37s max=5.37s errors=2
+agent C=4: p50=7.84s max=10.22s errors=4
+agent C=8: p50=12.39s max=19.24s errors=8
+agent C=16: p50=21.74s max=37.94s errors=16
+[04:10:35] A5 agent load gpt-oss:20b via http://127.0.0.1:11435
+warm-up failed: ExceptionGroup('unhandled errors in a TaskGroup', [ExceptionGroup('unhandled errors in a TaskGroup', [ResponseError('llama-server process has terminated: CUDA error\nCUDA error: device kernel image is
+agent C=1: p50=4.92s max=4.92s errors=1
+agent C=2: p50=8.80s max=8.80s errors=2
+agent C=4: p50=12.15s max=16.05s errors=4
+agent C=8: p50=20.35s max=31.93s errors=8
+agent C=16: p50=36.36s max=63.24s errors=16
+[04:12:47] A5 agent rerun done

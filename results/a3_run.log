@@ -1,0 +1,778 @@
+{"host": "4c836dfa3971", "python": "3.11.15", "gurobi": "11.0.3", "cpu_count": 128, "grb_settings": {"TimeLimit": 600, "Threads": 16, "OutputFlag": 0}}
+Computing routes...
+Set parameter WLSAccessID
+Set parameter WLSSecret
+Set parameter LicenseID to value [redacted]
+Academic license [redacted] - for non-commercial use only - registered to re___@utk.edu
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+86 solves to run (0 already done)
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[1/86] ref seattle_orlando s0 r0: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[2/86] ref seattle_orlando s0 r1: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[3/86] ref seattle_orlando s0 r2: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[4/86] ref seattle_orlando s0 r3: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[5/86] ref seattle_orlando s0 r4: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[6/86] ref seattle_orlando s0 r5: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[7/86] ref seattle_orlando s0 r6: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[8/86] ref seattle_orlando s0 r7: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[9/86] ref seattle_orlando s0 r8: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[10/86] ref seattle_orlando s0 r9: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[11/86] ref seattle_orlando s0 r10: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[12/86] ref seattle_orlando s0 r11: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[13/86] ref seattle_orlando s0 r12: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[14/86] ref seattle_orlando s0 r13: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[15/86] ref seattle_orlando s0 r14: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[16/86] ref seattle_orlando s0 r15: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[17/86] ref seattle_orlando s0 r16: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[18/86] ref seattle_orlando s0 r17: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[19/86] ref seattle_orlando s0 r18: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[20/86] ref seattle_orlando s0 r19: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[21/86] orders n=1 s0 r0: status=2 t=0.03s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[22/86] orders n=1 s1 r0: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[23/86] orders n=1 s2 r0: status=2 t=0.03s gap=2.955017620544276e-12
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[24/86] orders n=2 s0 r0: status=2 t=0.07s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[25/86] orders n=2 s1 r0: status=2 t=0.06s gap=7.825554130037863e-11
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[26/86] orders n=2 s2 r0: status=2 t=0.05s gap=3.378435550902954e-11
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[27/86] orders n=3 s0 r0: status=2 t=0.29s gap=9.61350935345097e-11
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[28/86] orders n=3 s1 r0: status=2 t=0.23s gap=3.246730351019234e-11
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[29/86] orders n=3 s2 r0: status=2 t=0.29s gap=2.3183426374332765e-11
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[30/86] orders n=5 s0 r0: status=2 t=6.84s gap=2.6291004418186705e-11
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[31/86] orders n=5 s1 r0: status=2 t=1.29s gap=7.328333057159998e-11
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[32/86] orders n=5 s2 r0: status=2 t=0.78s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[33/86] orders n=8 s0 r0: status=2 t=175.39s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[34/86] orders n=8 s1 r0: status=2 t=72.93s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[35/86] orders n=8 s2 r0: status=2 t=154.75s gap=3.7640212810204635e-11
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[36/86] orders n=10 s0 r0: status=2 t=56.69s gap=2.61680407993317e-11
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[37/86] orders n=10 s1 r0: status=2 t=173.00s gap=4.058362224610153e-11
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[38/86] orders n=10 s2 r0: status=2 t=149.57s gap=2.5542597077031433e-11
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[39/86] orders n=15 s0 r0: status=9 t=600.02s gap=0.1426057661813506
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[40/86] orders n=15 s1 r0: status=2 t=95.67s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[41/86] orders n=15 s2 r0: status=2 t=142.00s gap=1.2891948634012257e-11
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[42/86] orders n=20 s0 r0: status=2 t=289.37s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[43/86] orders n=20 s1 r0: status=2 t=404.22s gap=4.718971413300177e-14
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[44/86] orders n=20 s2 r0: status=2 t=320.89s gap=2.4754895321068782e-11
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[45/86] orders n=25 s0 r0: status=9 t=600.04s gap=0.012358244931525054
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[46/86] orders n=25 s1 r0: status=9 t=600.02s gap=0.05652342696151404
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[47/86] orders n=25 s2 r0: status=9 t=600.02s gap=0.024860765548317044
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[48/86] orders n=30 s0 r0: status=9 t=600.02s gap=0.1054358343688875
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[49/86] orders n=30 s1 r0: status=2 t=587.30s gap=4.833103531733445e-05
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[50/86] orders n=30 s2 r0: status=9 t=600.02s gap=0.074830685040424
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[51/86] fleet n=5,fleet=1 s0 r0: status=2 t=0.87s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[52/86] fleet n=5,fleet=1 s1 r0: status=2 t=1.00s gap=3.919513501542923e-12
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[53/86] fleet n=5,fleet=1 s2 r0: status=2 t=0.69s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[54/86] fleet n=5,fleet=2 s0 r0: status=2 t=6.78s gap=2.6291004418186705e-11
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[55/86] fleet n=5,fleet=2 s1 r0: status=2 t=1.28s gap=7.328333057159998e-11
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[56/86] fleet n=5,fleet=2 s2 r0: status=2 t=0.77s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[57/86] fleet n=5,fleet=3 s0 r0: status=2 t=8.31s gap=8.934885005958624e-11
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[58/86] fleet n=5,fleet=3 s1 r0: status=2 t=1.49s gap=8.144240156996918e-11
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[59/86] fleet n=5,fleet=3 s2 r0: status=2 t=1.42s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[60/86] fleet n=5,fleet=4 s0 r0: status=2 t=6.27s gap=5.221677876957942e-11
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[61/86] fleet n=5,fleet=4 s1 r0: status=2 t=9.38s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[62/86] fleet n=5,fleet=4 s2 r0: status=2 t=3.25s gap=8.3355436150301e-11
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[63/86] fleet n=5,fleet=5 s0 r0: status=2 t=26.10s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[64/86] fleet n=5,fleet=5 s1 r0: status=2 t=34.56s gap=2.545909562184636e-10
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[65/86] fleet n=5,fleet=5 s2 r0: status=2 t=9.21s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[66/86] fleet n=5,fleet=6 s0 r0: status=2 t=74.20s gap=1.82291683580668e-10
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[67/86] fleet n=5,fleet=6 s1 r0: status=2 t=83.83s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[68/86] fleet n=5,fleet=6 s2 r0: status=2 t=31.34s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[69/86] fleet n=10,fleet=1 s0 r0: status=2 t=2.42s gap=1.255597601656344e-16
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[70/86] fleet n=10,fleet=1 s1 r0: status=2 t=3.73s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[71/86] fleet n=10,fleet=1 s2 r0: status=2 t=2.07s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[72/86] fleet n=10,fleet=2 s0 r0: status=2 t=56.58s gap=2.61680407993317e-11
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[73/86] fleet n=10,fleet=2 s1 r0: status=2 t=173.70s gap=4.058362224610153e-11
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[74/86] fleet n=10,fleet=2 s2 r0: status=2 t=149.02s gap=2.5542597077031433e-11
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[75/86] fleet n=10,fleet=3 s0 r0: status=9 t=600.02s gap=0.0638990681679395
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[76/86] fleet n=10,fleet=3 s1 r0: status=9 t=600.02s gap=0.008697719399738766
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[77/86] fleet n=10,fleet=3 s2 r0: status=9 t=600.02s gap=0.006975581330218432
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[78/86] fleet n=10,fleet=4 s0 r0: status=9 t=600.02s gap=0.027231406668703953
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[79/86] fleet n=10,fleet=4 s1 r0: status=9 t=600.03s gap=0.024349066937261344
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[80/86] fleet n=10,fleet=4 s2 r0: status=9 t=600.01s gap=0.007099742731616295
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[81/86] fleet n=10,fleet=5 s0 r0: status=9 t=600.03s gap=0.01831179650702044
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[82/86] fleet n=10,fleet=5 s1 r0: status=9 t=600.03s gap=0.020397860147775806
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[83/86] fleet n=10,fleet=5 s2 r0: status=9 t=600.02s gap=0.013347520963980734
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[84/86] fleet n=10,fleet=6 s0 r0: status=9 t=600.03s gap=0.021456963772046575
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[85/86] fleet n=10,fleet=6 s1 r0: status=9 t=600.03s gap=0.03128594745404887
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[86/86] fleet n=10,fleet=6 s2 r0: status=9 t=600.04s gap=0.013956799122547808
+{"host": "fc41d6a66770", "python": "3.11.15", "backend": "gurobi", "solver_version": "11.0.3", "gurobi": "11.0.3", "cpu_count": 128, "grb_settings": {"TimeLimit": 600, "Threads": 16, "OutputFlag": 0}, "parallel_workers": 1}
+Computing routes...
+Set parameter WLSAccessID
+Set parameter WLSSecret
+Set parameter LicenseID to value [redacted]
+Academic license [redacted] - for non-commercial use only - registered to re___@utk.edu
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+40 solves to run (86 already done)
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[1/40] sample sample_instance s0 r0: status=2 t=0.37s gap=1.4548745982566576e-12
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[2/40] sample sample_instance s0 r1: status=2 t=0.37s gap=1.4548745982566576e-12
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[3/40] sample sample_instance s0 r2: status=2 t=0.37s gap=1.4548745982566576e-12
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[4/40] sample sample_instance s0 r3: status=2 t=0.36s gap=1.4548745982566576e-12
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[5/40] sample sample_instance s0 r4: status=2 t=0.37s gap=1.4548745982566576e-12
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[6/40] sample sample_instance s0 r5: status=2 t=0.36s gap=1.4548745982566576e-12
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[7/40] sample sample_instance s0 r6: status=2 t=0.36s gap=1.4548745982566576e-12
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[8/40] sample sample_instance s0 r7: status=2 t=0.36s gap=1.4548745982566576e-12
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[9/40] sample sample_instance s0 r8: status=2 t=0.37s gap=1.4548745982566576e-12
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[10/40] sample sample_instance s0 r9: status=2 t=0.36s gap=1.4548745982566576e-12
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[11/40] sample sample_instance s0 r10: status=2 t=0.36s gap=1.4548745982566576e-12
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[12/40] sample sample_instance s0 r11: status=2 t=0.37s gap=1.4548745982566576e-12
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[13/40] sample sample_instance s0 r12: status=2 t=0.37s gap=1.4548745982566576e-12
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[14/40] sample sample_instance s0 r13: status=2 t=0.37s gap=1.4548745982566576e-12
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[15/40] sample sample_instance s0 r14: status=2 t=0.36s gap=1.4548745982566576e-12
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[16/40] sample sample_instance s0 r15: status=2 t=0.37s gap=1.4548745982566576e-12
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[17/40] sample sample_instance s0 r16: status=2 t=0.36s gap=1.4548745982566576e-12
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[18/40] sample sample_instance s0 r17: status=2 t=0.36s gap=1.4548745982566576e-12
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[19/40] sample sample_instance s0 r18: status=2 t=0.36s gap=1.4548745982566576e-12
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[20/40] sample sample_instance s0 r19: status=2 t=0.37s gap=1.4548745982566576e-12
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[21/40] uc2 use_case_2 s0 r0: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[22/40] uc2 use_case_2 s0 r1: status=2 t=0.05s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[23/40] uc2 use_case_2 s0 r2: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[24/40] uc2 use_case_2 s0 r3: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[25/40] uc2 use_case_2 s0 r4: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[26/40] uc2 use_case_2 s0 r5: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[27/40] uc2 use_case_2 s0 r6: status=2 t=0.05s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[28/40] uc2 use_case_2 s0 r7: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[29/40] uc2 use_case_2 s0 r8: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[30/40] uc2 use_case_2 s0 r9: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[31/40] uc2 use_case_2 s0 r10: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[32/40] uc2 use_case_2 s0 r11: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[33/40] uc2 use_case_2 s0 r12: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[34/40] uc2 use_case_2 s0 r13: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[35/40] uc2 use_case_2 s0 r14: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[36/40] uc2 use_case_2 s0 r15: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[37/40] uc2 use_case_2 s0 r16: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[38/40] uc2 use_case_2 s0 r17: status=2 t=0.05s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[39/40] uc2 use_case_2 s0 r18: status=2 t=0.04s gap=0.0
+Computing routes...
+Set parameter IntFeasTol to value 1e-07
+Set parameter TimeLimit to value 3600
+Set parameter TimeLimit to value 600
+Set parameter Threads to value 16
+[40/40] uc2 use_case_2 s0 r19: status=2 t=0.04s gap=0.0

@@ -1,0 +1,65 @@
+[05:35:49] stopping MCP server
+ Container recoil-mcp-optimizer-dev Stopping 
+ Container recoil-mcp-optimizer-dev Stopped 
+[05:35:50] license probe
+license k=1: 1/1 sessions ok
+license k=2: 2/2 sessions ok
+license k=3: 3/3 sessions ok
+license k=4: 4/4 sessions ok
+[05:36:51] starting MCP server (Gurobi pool 2, HiGHS pool 16)
+ Container recoil-mcp-optimizer-dev Recreate 
+ Container recoil-mcp-optimizer-dev Recreated 
+ Container recoil-mcp-optimizer-dev Starting 
+ Container recoil-mcp-optimizer-dev Started 
+[05:36:53] solver load: gurobi
+solver[gurobi] C=1: n=5 p50=0.78s max=0.99s thr=1.16/s
+solver[gurobi] C=2: n=10 p50=0.62s max=0.83s thr=3.20/s
+solver[gurobi] C=4: n=20 p50=1.28s max=2.20s thr=2.83/s
+solver[gurobi] C=8: n=40 p50=2.52s max=3.29s thr=3.09/s
+solver[gurobi] C=16: n=80 p50=4.59s max=6.07s thr=3.34/s
+solver[gurobi] C=32: n=160 p50=9.50s max=11.79s thr=3.16/s
+[05:38:36] solver load: highs
+solver[highs] C=1: n=5 p50=10.69s max=15.65s thr=0.10/s
+solver[highs] C=2: n=10 p50=4.83s max=10.81s thr=0.31/s
+solver[highs] C=4: n=20 p50=8.25s max=100.06s thr=0.15/s
+solver[highs] C=8: n=40 p50=6.41s max=63.11s thr=0.42/s
+solver[highs] C=16: n=80 p50=4.98s max=197.23s thr=0.35/s
+solver[highs] C=32: n=160 p50=13.13s max=91.11s thr=0.97/s
+[05:50:20] agent load: llama3.1:8b
+agent C=1: p50=6.03s max=6.03s errors=0
+agent C=2: p50=5.12s max=5.12s errors=0
+agent C=4: p50=7.69s max=9.39s errors=0
+agent C=8: p50=13.19s max=18.26s errors=0
+agent C=16: p50=24.75s max=36.50s errors=0
+[05:51:38] agent load: gpt-oss:20b
+agent C=1: p50=10.84s max=10.84s errors=0
+agent C=2: p50=14.98s max=14.98s errors=0
+agent C=4: p50=35.61s max=41.93s errors=0
+agent C=8: p50=61.52s max=77.42s errors=0
+agent C=16: p50=120.10s max=156.42s errors=0
+[05:56:41] A5 done
+[05:56:59] stopping MCP server
+ Container recoil-mcp-optimizer-dev Stopping 
+ Container recoil-mcp-optimizer-dev Stopped 
+[05:57:00] license probe up to 8
+license k=1: 1/1 sessions ok
+license k=2: 2/2 sessions ok
+license k=3: 3/3 sessions ok
+license k=4: 4/4 sessions ok
+license k=5: 5/5 sessions ok
+license k=6: 6/6 sessions ok
+license k=7: 7/7 sessions ok
+license k=8: 8/8 sessions ok
+[05:59:01] starting MCP server (Gurobi pool 4, HiGHS pool 16)
+ Container recoil-mcp-optimizer-dev Recreate 
+ Container recoil-mcp-optimizer-dev Recreated 
+ Container recoil-mcp-optimizer-dev Starting 
+ Container recoil-mcp-optimizer-dev Started 
+[05:59:03] solver load: gurobi pool 4
+solver[gurobi] C=1: n=5 p50=0.78s max=0.95s thr=1.15/s
+solver[gurobi] C=2: n=10 p50=0.63s max=0.81s thr=3.16/s
+solver[gurobi] C=4: n=20 p50=0.68s max=1.41s thr=4.77/s
+solver[gurobi] C=8: n=40 p50=1.30s max=2.05s thr=5.46/s
+solver[gurobi] C=16: n=80 p50=2.44s max=3.39s thr=6.21/s
+solver[gurobi] C=32: n=160 p50=5.17s max=7.20s thr=5.80/s
+[06:00:03] A5 pool-4 follow-up done

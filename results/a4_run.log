@@ -1,0 +1,393 @@
+llama3.1:8b depth=1 r0: 5.32s tools=1 ok=True
+llama3.1:8b depth=2 r0: 6.29s tools=1 ok=True
+llama3.1:8b depth=3 r0: 12.09s tools=1 ok=True
+llama3.1:8b depth=4 r0: 2.47s tools=0 ok=True
+llama3.1:8b depth=6 r0: 90.64s tools=1 ok=True
+llama3.1:8b depth=8 r0: 5.94s tools=0 ok=True
+llama3.1:8b context=0 r0: 5.26s tools=1 ok=True
+llama3.1:8b context=2000 r0: 6.28s tools=1 ok=True
+llama3.1:8b context=4000 r0: 5.58s tools=1 ok=True
+llama3.1:8b context=8000 r0: 5.93s tools=1 ok=True
+llama3.1:8b context=16000 r0: 6.74s tools=1 ok=True
+llama3.1:8b context=26000 r0: 7.79s tools=1 ok=True
+llama3.1:8b depth=1 r1: 5.47s tools=1 ok=True
+llama3.1:8b depth=2 r1: 7.36s tools=1 ok=True
+llama3.1:8b depth=3 r1: 12.55s tools=1 ok=True
+llama3.1:8b depth=4 r1: 4.01s tools=0 ok=True
+llama3.1:8b depth=6 r1: 90.48s tools=1 ok=True
+llama3.1:8b depth=8 r1: 221.41s tools=1 ok=True
+llama3.1:8b context=0 r1: 5.93s tools=1 ok=True
+llama3.1:8b context=2000 r1: 6.87s tools=1 ok=True
+llama3.1:8b context=4000 r1: 5.90s tools=1 ok=True
+llama3.1:8b context=8000 r1: 4.30s tools=1 ok=True
+llama3.1:8b context=16000 r1: 7.90s tools=1 ok=True
+llama3.1:8b context=26000 r1: 9.84s tools=1 ok=True
+llama3.1:8b depth=1 r2: 6.18s tools=1 ok=True
+llama3.1:8b depth=2 r2: 5.17s tools=1 ok=True
+llama3.1:8b depth=3 r2: 12.55s tools=1 ok=True
+llama3.1:8b depth=4 r2: 4.20s tools=0 ok=True
+llama3.1:8b depth=6 r2: 92.59s tools=1 ok=True
+llama3.1:8b depth=8 r2: 220.76s tools=1 ok=True
+llama3.1:8b context=0 r2: 5.48s tools=1 ok=True
+llama3.1:8b context=2000 r2: 5.79s tools=1 ok=True
+llama3.1:8b context=4000 r2: 5.71s tools=1 ok=True
+llama3.1:8b context=8000 r2: 5.88s tools=1 ok=True
+llama3.1:8b context=16000 r2: 7.27s tools=1 ok=True
+llama3.1:8b context=26000 r2: 8.60s tools=1 ok=True
+llama3.1:8b depth=1 r3: 5.74s tools=1 ok=True
+llama3.1:8b depth=2 r3: 8.34s tools=1 ok=True
+llama3.1:8b depth=3 r3: 12.41s tools=1 ok=True
+llama3.1:8b depth=4 r3: 3.77s tools=0 ok=True
+llama3.1:8b depth=6 r3: 84.73s tools=1 ok=True
+llama3.1:8b depth=8 r3: 228.23s tools=1 ok=True
+llama3.1:8b context=0 r3: 5.54s tools=1 ok=True
+llama3.1:8b context=2000 r3: 6.18s tools=1 ok=True
+llama3.1:8b context=4000 r3: 5.89s tools=1 ok=True
+llama3.1:8b context=8000 r3: 6.04s tools=1 ok=True
+llama3.1:8b context=16000 r3: 7.40s tools=1 ok=True
+llama3.1:8b context=26000 r3: 7.69s tools=1 ok=True
+llama3.1:8b depth=1 r4: 5.67s tools=1 ok=True
+llama3.1:8b depth=2 r4: 7.71s tools=1 ok=True
+llama3.1:8b depth=3 r4: 14.09s tools=1 ok=True
+llama3.1:8b depth=4 r4: 3.82s tools=0 ok=True
+llama3.1:8b depth=6 r4: 88.87s tools=1 ok=True
+llama3.1:8b depth=8 r4: 228.25s tools=1 ok=True
+llama3.1:8b context=0 r4: 5.47s tools=1 ok=True
+llama3.1:8b context=2000 r4: 6.21s tools=1 ok=True
+llama3.1:8b context=4000 r4: 5.94s tools=1 ok=True
+llama3.1:8b context=8000 r4: 6.01s tools=1 ok=True
+llama3.1:8b context=16000 r4: 7.43s tools=1 ok=True
+llama3.1:8b context=26000 r4: 8.76s tools=1 ok=True
+llama3.1:8b depth=1 r5: 5.91s tools=1 ok=True
+llama3.1:8b depth=2 r5: 7.44s tools=1 ok=True
+llama3.1:8b depth=3 r5: 13.64s tools=1 ok=True
+llama3.1:8b depth=4 r5: 3.81s tools=0 ok=True
+llama3.1:8b depth=6 r5: 88.23s tools=1 ok=True
+llama3.1:8b depth=8 r5: 219.83s tools=1 ok=True
+llama3.1:8b context=0 r5: 5.52s tools=1 ok=True
+llama3.1:8b context=2000 r5: 6.11s tools=1 ok=True
+llama3.1:8b context=4000 r5: 5.97s tools=1 ok=True
+llama3.1:8b context=8000 r5: 5.87s tools=1 ok=True
+llama3.1:8b context=16000 r5: 7.46s tools=1 ok=True
+llama3.1:8b context=26000 r5: 8.74s tools=1 ok=True
+llama3.1:8b depth=1 r6: 5.45s tools=1 ok=True
+llama3.1:8b depth=2 r6: 7.67s tools=1 ok=True
+llama3.1:8b depth=3 r6: 14.09s tools=1 ok=True
+llama3.1:8b depth=4 r6: 3.78s tools=0 ok=True
+llama3.1:8b depth=6 r6: 88.05s tools=1 ok=True
+llama3.1:8b depth=8 r6: 220.47s tools=1 ok=True
+llama3.1:8b context=0 r6: 5.21s tools=1 ok=True
+llama3.1:8b context=2000 r6: 6.06s tools=1 ok=True
+llama3.1:8b context=4000 r6: 5.91s tools=1 ok=True
+llama3.1:8b context=8000 r6: 6.02s tools=1 ok=True
+llama3.1:8b context=16000 r6: 7.21s tools=1 ok=True
+llama3.1:8b context=26000 r6: 6.64s tools=1 ok=True
+llama3.1:8b depth=1 r7: 5.52s tools=1 ok=True
+llama3.1:8b depth=2 r7: 7.98s tools=1 ok=True
+llama3.1:8b depth=3 r7: 13.76s tools=1 ok=True
+llama3.1:8b depth=4 r7: 3.78s tools=0 ok=True
+llama3.1:8b depth=6 r7: 88.73s tools=1 ok=True
+llama3.1:8b depth=8 r7: 221.97s tools=1 ok=True
+llama3.1:8b context=0 r7: 5.29s tools=1 ok=True
+llama3.1:8b context=2000 r7: 6.04s tools=1 ok=True
+llama3.1:8b context=4000 r7: 6.03s tools=1 ok=True
+llama3.1:8b context=8000 r7: 6.33s tools=1 ok=True
+llama3.1:8b context=16000 r7: 7.44s tools=1 ok=True
+llama3.1:8b context=26000 r7: 8.04s tools=1 ok=True
+llama3.1:8b depth=1 r8: 5.41s tools=1 ok=True
+llama3.1:8b depth=2 r8: 7.46s tools=1 ok=True
+llama3.1:8b depth=3 r8: 12.65s tools=1 ok=True
+llama3.1:8b depth=4 r8: 3.69s tools=0 ok=True
+llama3.1:8b depth=6 r8: 88.72s tools=1 ok=True
+llama3.1:8b depth=8 r8: 225.42s tools=1 ok=True
+llama3.1:8b context=0 r8: 3.53s tools=1 ok=True
+llama3.1:8b context=2000 r8: 8.62s tools=1 ok=True
+llama3.1:8b context=4000 r8: 6.02s tools=1 ok=True
+llama3.1:8b context=8000 r8: 4.73s tools=1 ok=True
+llama3.1:8b context=16000 r8: 4.18s tools=1 ok=True
+llama3.1:8b context=26000 r8: 8.17s tools=1 ok=True
+llama3.1:8b depth=1 r9: 6.62s tools=1 ok=True
+llama3.1:8b depth=2 r9: 8.40s tools=1 ok=True
+llama3.1:8b depth=3 r9: 15.79s tools=1 ok=True
+llama3.1:8b depth=4 r9: 3.26s tools=0 ok=True
+llama3.1:8b depth=6 r9: 88.44s tools=1 ok=True
+llama3.1:8b depth=8 r9: 219.01s tools=1 ok=True
+llama3.1:8b context=0 r9: 4.86s tools=1 ok=True
+llama3.1:8b context=2000 r9: 6.22s tools=1 ok=True
+llama3.1:8b context=4000 r9: 4.98s tools=1 ok=True
+llama3.1:8b context=8000 r9: 4.95s tools=1 ok=True
+llama3.1:8b context=16000 r9: 4.73s tools=1 ok=True
+llama3.1:8b context=26000 r9: 5.28s tools=1 ok=True
+  + Exception Group Traceback (most recent call last):
+  |   File "/exp/a4_depth_context.py", line 108, in <module>
+  |     main()
+  |   File "/exp/a4_depth_context.py", line 104, in main
+  |     asyncio.run(main_async(ap.parse_args()))
+  |   File "/usr/local/lib/python3.11/asyncio/runners.py", line 190, in run
+  |     return runner.run(main)
+  |            ^^^^^^^^^^^^^^^^
+  |   File "/usr/local/lib/python3.11/asyncio/runners.py", line 118, in run
+  |     return self._loop.run_until_complete(task)
+  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  |   File "/usr/local/lib/python3.11/asyncio/base_events.py", line 654, in run_until_complete
+  |     return future.result()
+  |            ^^^^^^^^^^^^^^^
+  |   File "/exp/a4_depth_context.py", line 73, in main_async
+  |     await run_agent(REF, model, [args.mcp], num_ctx=args.num_ctx)
+  |   File "/app/agent/host.py", line 116, in run_agent
+  |     async with AsyncExitStack() as stack:
+  |   File "/usr/local/lib/python3.11/contextlib.py", line 745, in __aexit__
+  |     raise exc_details[1]
+  |   File "/usr/local/lib/python3.11/contextlib.py", line 728, in __aexit__
+  |     cb_suppress = await cb(*exc_details)
+  |                   ^^^^^^^^^^^^^^^^^^^^^^
+  |   File "/usr/local/lib/python3.11/contextlib.py", line 231, in __aexit__
+  |     await self.gen.athrow(typ, value, traceback)
+  |   File "/usr/local/lib/python3.11/site-packages/mcp/client/streamable_http.py", line 474, in streamablehttp_client
+  |     async with anyio.create_task_group() as tg:
+  |   File "/usr/local/lib/python3.11/site-packages/anyio/_backends/_asyncio.py", line 847, in __aexit__
+  |     raise BaseExceptionGroup(
+  | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+  +-+---------------- 1 ----------------
+    | Exception Group Traceback (most recent call last):
+    |   File "/usr/local/lib/python3.11/site-packages/mcp/client/streamable_http.py", line 498, in streamablehttp_client
+    |     yield (
+    |   File "/usr/local/lib/python3.11/contextlib.py", line 728, in __aexit__
+    |     cb_suppress = await cb(*exc_details)
+    |                   ^^^^^^^^^^^^^^^^^^^^^^
+    |   File "/usr/local/lib/python3.11/site-packages/mcp/shared/session.py", line 218, in __aexit__
+    |     return await self._task_group.__aexit__(exc_type, exc_val, exc_tb)
+    |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "/usr/local/lib/python3.11/site-packages/anyio/_backends/_asyncio.py", line 847, in __aexit__
+    |     raise BaseExceptionGroup(
+    | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+    +-+---------------- 1 ----------------
+      | Traceback (most recent call last):
+      |   File "/app/agent/host.py", line 139, in run_agent
+      |     resp = await llm.chat(model=model, messages=messages, tools=tools,
+      |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      |   File "/usr/local/lib/python3.11/site-packages/ollama/_client.py", line 983, in chat
+      |     return await self._request(
+      |            ^^^^^^^^^^^^^^^^^^^^
+      |   File "/usr/local/lib/python3.11/site-packages/ollama/_client.py", line 767, in _request
+      |     return cls(**(await self._request_raw(*args, **kwargs)).json())
+      |                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      |   File "/usr/local/lib/python3.11/site-packages/ollama/_client.py", line 711, in _request_raw
+      |     raise ResponseError(e.response.text, e.response.status_code) from None
+      | ollama._types.ResponseError: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.27.2</center>
+</body>
+</html>
+ (status code: 504)
+      +------------------------------------
+gpt-oss:20b depth=1 r0: 83.95s tools=3 ok=True
+gpt-oss:20b depth=2 r0: 92.51s tools=4 ok=True
+gpt-oss:20b depth=3 r0: 117.54s tools=5 ok=True
+gpt-oss:20b depth=4 r0: 164.13s tools=None ok=False
+gpt-oss:20b depth=6 r0: 60.12s tools=None ok=False
+gpt-oss:20b depth=8 r0: 93.14s tools=None ok=False
+gpt-oss:20b context=0 r0: 113.17s tools=None ok=False
+gpt-oss:20b context=2000 r0: 77.70s tools=3 ok=True
+gpt-oss:20b context=4000 r0: 113.16s tools=4 ok=True
+gpt-oss:20b context=8000 r0: 82.96s tools=3 ok=True
+gpt-oss:20b context=16000 r0: 100.07s tools=4 ok=True
+gpt-oss:20b context=26000 r0: 111.10s tools=4 ok=True
+gpt-oss:20b depth=1 r1: 77.94s tools=3 ok=True
+gpt-oss:20b depth=2 r1: 104.10s tools=4 ok=True
+gpt-oss:20b depth=3 r1: 103.11s tools=4 ok=True
+gpt-oss:20b depth=4 r1: 123.75s tools=None ok=False
+gpt-oss:20b depth=6 r1: 229.05s tools=9 ok=True
+gpt-oss:20b depth=8 r1: 43.88s tools=11 ok=True
+gpt-oss:20b context=0 r1: 8.69s tools=2 ok=True
+gpt-oss:20b context=2000 r1: 11.39s tools=3 ok=True
+gpt-oss:20b context=4000 r1: 11.19s tools=4 ok=True
+gpt-oss:20b context=8000 r1: 11.79s tools=3 ok=True
+gpt-oss:20b context=16000 r1: 11.09s tools=4 ok=True
+gpt-oss:20b context=26000 r1: 12.44s tools=4 ok=True
+gpt-oss:20b depth=1 r2: 10.93s tools=3 ok=True
+gpt-oss:20b depth=2 r2: 10.04s tools=3 ok=True
+gpt-oss:20b depth=3 r2: 18.35s tools=6 ok=True
+gpt-oss:20b depth=4 r2: 26.16s tools=7 ok=True
+gpt-oss:20b depth=6 r2: 32.08s tools=7 ok=True
+gpt-oss:20b depth=8 r2: 28.24s tools=11 ok=True
+gpt-oss:20b context=0 r2: 11.64s tools=3 ok=True
+gpt-oss:20b context=2000 r2: 7.38s tools=2 ok=True
+gpt-oss:20b context=4000 r2: 10.86s tools=3 ok=True
+gpt-oss:20b context=8000 r2: 16.21s tools=4 ok=True
+gpt-oss:20b context=16000 r2: 11.39s tools=4 ok=True
+gpt-oss:20b context=26000 r2: 9.61s tools=3 ok=True
+gpt-oss:20b depth=1 r3: 10.40s tools=3 ok=True
+gpt-oss:20b depth=2 r3: 10.20s tools=3 ok=True
+gpt-oss:20b depth=3 r3: 22.52s tools=6 ok=True
+gpt-oss:20b depth=4 r3: 24.03s tools=7 ok=True
+gpt-oss:20b depth=6 r3: 32.17s tools=7 ok=True
+gpt-oss:20b depth=8 r3: 30.64s tools=11 ok=True
+gpt-oss:20b context=0 r3: 12.22s tools=3 ok=True
+gpt-oss:20b context=2000 r3: 10.54s tools=4 ok=True
+gpt-oss:20b context=4000 r3: 9.77s tools=4 ok=True
+gpt-oss:20b context=8000 r3: 15.44s tools=4 ok=True
+gpt-oss:20b context=16000 r3: 11.98s tools=4 ok=True
+gpt-oss:20b context=26000 r3: 10.00s tools=3 ok=True
+gpt-oss:20b depth=1 r4: 9.51s tools=3 ok=True
+gpt-oss:20b depth=2 r4: 10.47s tools=3 ok=True
+gpt-oss:20b depth=3 r4: 19.76s tools=6 ok=True
+gpt-oss:20b depth=4 r4: 24.69s tools=7 ok=True
+gpt-oss:20b depth=6 r4: 29.77s tools=7 ok=True
+gpt-oss:20b depth=8 r4: 37.36s tools=11 ok=True
+gpt-oss:20b context=0 r4: 12.68s tools=3 ok=True
+gpt-oss:20b context=2000 r4: 12.75s tools=3 ok=True
+gpt-oss:20b context=4000 r4: 11.98s tools=4 ok=True
+gpt-oss:20b context=8000 r4: 14.89s tools=4 ok=True
+gpt-oss:20b context=16000 r4: 12.69s tools=4 ok=True
+gpt-oss:20b context=26000 r4: 9.69s tools=3 ok=True
+gpt-oss:20b depth=1 r5: 9.43s tools=3 ok=True
+gpt-oss:20b depth=2 r5: 11.86s tools=3 ok=True
+gpt-oss:20b depth=3 r5: 20.98s tools=6 ok=True
+gpt-oss:20b depth=4 r5: 27.07s tools=7 ok=True
+gpt-oss:20b depth=6 r5: 31.86s tools=7 ok=True
+gpt-oss:20b depth=8 r5: 73.50s tools=None ok=False
+gpt-oss:20b context=0 r5: 95.23s tools=None ok=False
+gpt-oss:20b context=2000 r5: 60.09s tools=None ok=False
+gpt-oss:20b context=4000 r5: 60.11s tools=None ok=False
+gpt-oss:20b context=8000 r5: 94.45s tools=None ok=False
+gpt-oss:20b context=16000 r5: 60.06s tools=None ok=False
+gpt-oss:20b context=26000 r5: 166.02s tools=None ok=False
+gpt-oss:20b depth=1 r6: 101.37s tools=None ok=False
+gpt-oss:20b depth=2 r6: 60.14s tools=None ok=False
+gpt-oss:20b depth=3 r6: 155.12s tools=None ok=False
+gpt-oss:20b depth=4 r6: 60.05s tools=None ok=False
+gpt-oss:20b depth=6 r6: 60.06s tools=None ok=False
+gpt-oss:20b depth=8 r6: 113.41s tools=None ok=False
+gpt-oss:20b context=0 r6: 60.12s tools=None ok=False
+gpt-oss:20b context=2000 r6: 60.12s tools=None ok=False
+gpt-oss:20b context=4000 r6: 164.65s tools=None ok=False
+gpt-oss:20b context=8000 r6: 237.22s tools=None ok=False
+gpt-oss:20b context=16000 r6: 60.14s tools=None ok=False
+gpt-oss:20b context=26000 r6: 119.95s tools=4 ok=True
+gpt-oss:20b depth=1 r7: 115.14s tools=None ok=False
+gpt-oss:20b depth=2 r7: 60.17s tools=None ok=False
+gpt-oss:20b depth=3 r7: 60.15s tools=None ok=False
+gpt-oss:20b depth=4 r7: 60.12s tools=None ok=False
+gpt-oss:20b depth=1 r0: 11.29s tools=4 ok=True
+gpt-oss:20b depth=2 r0: 12.53s tools=3 ok=True
+gpt-oss:20b depth=3 r0: 16.18s tools=5 ok=True
+gpt-oss:20b depth=4 r0: 27.88s tools=5 ok=True
+gpt-oss:20b depth=6 r0: 29.77s tools=8 ok=True
+gpt-oss:20b depth=8 r0: 28.96s tools=9 ok=True
+gpt-oss:20b context=0 r0: 17.15s tools=4 ok=True
+gpt-oss:20b context=2000 r0: 17.32s tools=4 ok=True
+gpt-oss:20b context=4000 r0: 13.15s tools=4 ok=True
+gpt-oss:20b context=8000 r0: 9.92s tools=3 ok=True
+gpt-oss:20b context=16000 r0: 13.13s tools=4 ok=True
+gpt-oss:20b context=26000 r0: 11.21s tools=4 ok=True
+gpt-oss:20b depth=1 r1: 9.98s tools=3 ok=True
+gpt-oss:20b depth=2 r1: 11.00s tools=3 ok=True
+gpt-oss:20b depth=3 r1: 24.43s tools=5 ok=True
+gpt-oss:20b depth=4 r1: 32.42s tools=5 ok=True
+gpt-oss:20b depth=6 r1: 23.99s tools=8 ok=True
+gpt-oss:20b depth=8 r1: 35.41s tools=10 ok=True
+gpt-oss:20b context=0 r1: 18.12s tools=4 ok=True
+gpt-oss:20b context=2000 r1: 13.39s tools=4 ok=True
+gpt-oss:20b context=4000 r1: 13.66s tools=4 ok=True
+gpt-oss:20b context=8000 r1: 15.69s tools=4 ok=True
+gpt-oss:20b context=16000 r1: 12.94s tools=4 ok=True
+gpt-oss:20b context=26000 r1: 12.01s tools=4 ok=True
+gpt-oss:20b depth=1 r2: 10.24s tools=3 ok=True
+gpt-oss:20b depth=2 r2: 11.02s tools=3 ok=True
+gpt-oss:20b depth=3 r2: 16.87s tools=5 ok=True
+gpt-oss:20b depth=4 r2: 27.37s tools=5 ok=True
+gpt-oss:20b depth=6 r2: 29.82s tools=8 ok=True
+gpt-oss:20b depth=8 r2: 34.50s tools=9 ok=True
+gpt-oss:20b context=0 r2: 14.68s tools=3 ok=True
+gpt-oss:20b context=2000 r2: 15.98s tools=4 ok=True
+gpt-oss:20b context=4000 r2: 11.89s tools=4 ok=True
+gpt-oss:20b context=8000 r2: 12.45s tools=4 ok=True
+gpt-oss:20b context=16000 r2: 12.10s tools=4 ok=True
+gpt-oss:20b context=26000 r2: 13.50s tools=4 ok=True
+gpt-oss:20b depth=1 r3: 11.85s tools=3 ok=True
+gpt-oss:20b depth=2 r3: 12.88s tools=3 ok=True
+gpt-oss:20b depth=3 r3: 18.53s tools=5 ok=True
+gpt-oss:20b depth=4 r3: 27.66s tools=5 ok=True
+gpt-oss:20b depth=6 r3: 27.45s tools=8 ok=True
+gpt-oss:20b depth=8 r3: 36.41s tools=9 ok=True
+gpt-oss:20b context=0 r3: 15.53s tools=3 ok=True
+gpt-oss:20b context=2000 r3: 17.09s tools=4 ok=True
+gpt-oss:20b context=4000 r3: 12.92s tools=4 ok=True
+gpt-oss:20b context=8000 r3: 14.59s tools=4 ok=True
+gpt-oss:20b context=16000 r3: 11.66s tools=4 ok=True
+gpt-oss:20b context=26000 r3: 13.56s tools=4 ok=True
+gpt-oss:20b depth=1 r4: 10.64s tools=3 ok=True
+gpt-oss:20b depth=2 r4: 11.25s tools=3 ok=True
+gpt-oss:20b depth=3 r4: 18.55s tools=5 ok=True
+gpt-oss:20b depth=4 r4: 27.06s tools=5 ok=True
+gpt-oss:20b depth=6 r4: 25.37s tools=8 ok=True
+gpt-oss:20b depth=8 r4: 36.39s tools=9 ok=True
+gpt-oss:20b context=0 r4: 16.77s tools=4 ok=True
+gpt-oss:20b context=2000 r4: 14.50s tools=4 ok=True
+gpt-oss:20b context=4000 r4: 12.19s tools=4 ok=True
+gpt-oss:20b context=8000 r4: 12.26s tools=4 ok=True
+gpt-oss:20b context=16000 r4: 13.69s tools=4 ok=True
+gpt-oss:20b context=26000 r4: 16.05s tools=4 ok=True
+gpt-oss:20b depth=1 r5: 11.58s tools=3 ok=True
+gpt-oss:20b depth=2 r5: 12.77s tools=3 ok=True
+gpt-oss:20b depth=3 r5: 18.64s tools=5 ok=True
+gpt-oss:20b depth=4 r5: 27.30s tools=5 ok=True
+gpt-oss:20b depth=6 r5: 29.67s tools=8 ok=True
+gpt-oss:20b depth=8 r5: 31.56s tools=9 ok=True
+gpt-oss:20b context=0 r5: 14.62s tools=3 ok=True
+gpt-oss:20b context=2000 r5: 14.59s tools=4 ok=True
+gpt-oss:20b context=4000 r5: 14.06s tools=4 ok=True
+gpt-oss:20b context=8000 r5: 14.32s tools=4 ok=True
+gpt-oss:20b context=16000 r5: 10.75s tools=4 ok=True
+gpt-oss:20b context=26000 r5: 13.48s tools=4 ok=True
+gpt-oss:20b depth=1 r6: 10.24s tools=3 ok=True
+gpt-oss:20b depth=2 r6: 13.17s tools=3 ok=True
+gpt-oss:20b depth=3 r6: 20.24s tools=5 ok=True
+gpt-oss:20b depth=4 r6: 27.77s tools=5 ok=True
+gpt-oss:20b depth=6 r6: 28.14s tools=8 ok=True
+gpt-oss:20b depth=8 r6: 36.24s tools=9 ok=True
+gpt-oss:20b context=0 r6: 15.90s tools=3 ok=True
+gpt-oss:20b context=2000 r6: 15.30s tools=4 ok=True
+gpt-oss:20b context=4000 r6: 12.39s tools=4 ok=True
+gpt-oss:20b context=8000 r6: 12.52s tools=4 ok=True
+gpt-oss:20b context=16000 r6: 12.84s tools=4 ok=True
+gpt-oss:20b context=26000 r6: 12.87s tools=4 ok=True
+gpt-oss:20b depth=1 r7: 10.23s tools=3 ok=True
+gpt-oss:20b depth=2 r7: 10.92s tools=3 ok=True
+gpt-oss:20b depth=3 r7: 24.64s tools=5 ok=True
+gpt-oss:20b depth=4 r7: 27.39s tools=5 ok=True
+gpt-oss:20b depth=6 r7: 29.33s tools=8 ok=True
+gpt-oss:20b depth=8 r7: 34.76s tools=9 ok=True
+gpt-oss:20b context=0 r7: 16.92s tools=4 ok=True
+gpt-oss:20b context=2000 r7: 15.07s tools=4 ok=True
+gpt-oss:20b context=4000 r7: 12.68s tools=4 ok=True
+gpt-oss:20b context=8000 r7: 10.13s tools=2 ok=True
+gpt-oss:20b context=16000 r7: 12.18s tools=4 ok=True
+gpt-oss:20b context=26000 r7: 11.41s tools=3 ok=True
+gpt-oss:20b depth=1 r8: 10.11s tools=3 ok=True
+gpt-oss:20b depth=2 r8: 13.58s tools=3 ok=True
+gpt-oss:20b depth=3 r8: 19.07s tools=5 ok=True
+gpt-oss:20b depth=4 r8: 28.21s tools=5 ok=True
+gpt-oss:20b depth=6 r8: 31.41s tools=8 ok=True
+gpt-oss:20b depth=8 r8: 32.52s tools=9 ok=True
+gpt-oss:20b context=0 r8: 16.81s tools=3 ok=True
+gpt-oss:20b context=2000 r8: 17.07s tools=4 ok=True
+gpt-oss:20b context=4000 r8: 12.04s tools=4 ok=True
+gpt-oss:20b context=8000 r8: 12.56s tools=4 ok=True
+gpt-oss:20b context=16000 r8: 12.90s tools=4 ok=True
+gpt-oss:20b context=26000 r8: 13.60s tools=4 ok=True
+gpt-oss:20b depth=1 r9: 12.73s tools=3 ok=True
+gpt-oss:20b depth=2 r9: 11.20s tools=3 ok=True
+gpt-oss:20b depth=3 r9: 19.52s tools=5 ok=True
+gpt-oss:20b depth=4 r9: 28.79s tools=5 ok=True
+gpt-oss:20b depth=6 r9: 29.97s tools=8 ok=True
+gpt-oss:20b depth=8 r9: 29.05s tools=9 ok=True
+gpt-oss:20b context=0 r9: 15.48s tools=3 ok=True
+gpt-oss:20b context=2000 r9: 15.53s tools=4 ok=True
+gpt-oss:20b context=4000 r9: 13.79s tools=4 ok=True
+gpt-oss:20b context=8000 r9: 14.26s tools=4 ok=True
+gpt-oss:20b context=16000 r9: 14.43s tools=4 ok=True
+gpt-oss:20b context=26000 r9: 14.40s tools=4 ok=True
